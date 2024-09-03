@@ -1,15 +1,3 @@
-// import React from 'react';
-
-// const StudentDetails = () => {
-//   return (
-//     <div>
-//       <h1>Student Details</h1>
-//       {/* Display student details here */}
-//     </div>
-//   );
-// }
-
-// export default StudentDetails;
 import React, { useEffect, useState } from 'react';
 
 const StudentDetails = () => {
